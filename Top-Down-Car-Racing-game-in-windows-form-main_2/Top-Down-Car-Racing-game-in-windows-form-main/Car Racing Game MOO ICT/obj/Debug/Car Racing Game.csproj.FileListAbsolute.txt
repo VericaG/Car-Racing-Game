@@ -1,3 +1,0 @@
-C:\Users\pc\Desktop\4 semestar\VP\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game.csproj.AssemblyReference.cache
-C:\Users\pc\Desktop\4 semestar\VP\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.exe
-C:\Users\pc\Desktop\4 semestar\VP\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.pdb
