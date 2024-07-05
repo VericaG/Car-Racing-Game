@@ -21,7 +21,7 @@ namespace Car_Racing_Game_MOO_ICT
         int score;
         int carImage;
         int fuel = 1000;
-        int fuelDecrease = 2;
+        int fuelDecrease = 1;
         Random fuelPosition = new Random();
 
 
