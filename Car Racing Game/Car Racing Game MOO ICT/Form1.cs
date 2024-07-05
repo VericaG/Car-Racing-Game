@@ -15,11 +15,11 @@ namespace Car_Racing_Game_MOO_ICT
 
         int roadSpeed;
         int trafficSpeed;
-        int playerSpeed = 12;
+        int playerSpeed = 11;
         int score;
         int carImage;
         int fuel = 1000;
-        int fuelDecrease = 1;
+        int fuelDecrease = 1.5;
         Random fuelPosition = new Random();
 
 
@@ -30,7 +30,7 @@ namespace Car_Racing_Game_MOO_ICT
 
         int shieldCount = 3;
         bool isShieldActive = false; 
-        int shieldDuration = 10; 
+        int shieldDuration = 9; 
         DateTime shieldActivationTime; 
 
 
@@ -220,14 +220,14 @@ namespace Car_Racing_Game_MOO_ICT
             if (score > 500 && score < 2000)
             {
                 award.Image = Properties.Resources.silver;
-                roadSpeed = 20;
-                trafficSpeed = 22;
+                roadSpeed = 18;
+                trafficSpeed = 20;
             }
             if (score > 2000)
             {
                 award.Image = Properties.Resources.gold;
-                trafficSpeed = 27;
-                roadSpeed = 25;
+                trafficSpeed = 25;
+                roadSpeed = 23;
             }
         }
 
